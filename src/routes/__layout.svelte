@@ -3,6 +3,11 @@
 	import '../app.css';
 </script>
 
+<svelte:head>
+  <script async defer data-website-id="fe7d6be3-fd45-4c25-88e4-c88799455b4d" src="https://umami-production-08e2.up.railway.app/umami.js" />
+</svelte:head>
+
+
 <Header />
 
 <main>
